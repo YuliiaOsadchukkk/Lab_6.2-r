@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  UT.cpp
+F:\Навчання\Лаб. з АП\Лабораторні 6.1-6.3(6.4)\Lab_6.2---r\Lab_6.2-r\Lab_6.2-r\Source.cpp(51,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+     Creating library F:\Навчання\Лаб. з АП\Лабораторні 6.1-6.3(6.4)\Lab_6.2---r\Lab_6.2-r\Debug\UT.lib and object F:\Навчання\Лаб. з АП\Лабораторні 6.1-6.3(6.4)\Lab_6.2---r\Lab_6.2-r\Debug\UT.exp
+  UT.vcxproj -> F:\Навчання\Лаб. з АП\Лабораторні 6.1-6.3(6.4)\Lab_6.2---r\Lab_6.2-r\Debug\UT.dll
